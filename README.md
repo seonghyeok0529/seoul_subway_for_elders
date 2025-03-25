@@ -40,15 +40,16 @@
 - **Python** (Pandas, Numpy, Seaborn, Scikit-learn)
 - **Jupyter Notebook**, **Google Colab**
 - **Kakao API**, **Public Data APIs**
-- **Tableau / Folium / matplotlib** (시각화 도구)
+- **Tableau / Folium / matplotlib / seaborn** (시각화 도구)
 
-## 👥 팀 소개 (6조 - DATNGUE)
+## 👥 팀 소개 (DATAOUNGUE)
 
 - 김선혁, 이유진, 조성학, 최성혁, 최온
 
 ## 🔁 회고 및 학습
 
-- 프로젝트 내내 협업 툴(Notion 댓글 기능 등)과 업무 분장을 적극 활용
+- 문제 정의를 위해 다양한 레퍼런스 참고 및 토의
+- 프로젝트 내내 협업 툴(Notion 댓글 기능 등)과 업무 분장을 적극 활용 및 지속적인 의사소통
 - 데이터 오류 및 결측 대응 과정에서 문제 해결력 향상
 - 주피터 노트북 동시 작업의 한계를 극복하기 위한 노력을 지속함
 
@@ -71,7 +72,6 @@
 
 ---
 
-💡 **“데이터로 사회 문제 해결에 기여하고 싶다면? 이 프로젝트에서 영감을 받아보세요.”**
 
 
 [초급프로젝트_발표자료.pdf](https://github.com/user-attachments/files/19441427/_.pdf)
